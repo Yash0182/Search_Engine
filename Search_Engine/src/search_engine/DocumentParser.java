@@ -1,3 +1,5 @@
+//This file parses all the documents and do the indexing of all the words
+
 package search_engine;
 
 import java.io.BufferedReader;
