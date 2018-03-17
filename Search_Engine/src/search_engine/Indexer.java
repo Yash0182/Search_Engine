@@ -1,3 +1,5 @@
+//This file uses those indexes made by DocumentParser and orders them according to the term frequency(tf).
+
 package search_engine;
 
 import java.util.*;
