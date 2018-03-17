@@ -3,6 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+//This is the main file of the project,which runs the DocumentParser file and Also the Indexer file and outputs the result
 
 package search_engine;
 import java.util.*;
